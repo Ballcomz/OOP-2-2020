@@ -1,3 +1,5 @@
+package week5;
+
 public class NerfGun {
     private int ammunition;
     private int lable;

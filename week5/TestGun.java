@@ -1,3 +1,5 @@
+package week5;
+
 public class TestGun {
     public static void main(String[] args) {
         NerfGun gun1 = new NerfGun();
