@@ -18,7 +18,7 @@ public class InstanceOfDemo {
         B b = new B();
         Object c = new C();
         // Test the instan of object and class
-        System.out.println(a instanceof B);
+        System.out.println(a instanceof A);
 
     }
 }
